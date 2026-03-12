@@ -4,7 +4,7 @@ export default function Frontend() {
   return (
     <CategoryPage
       title="Frontend Work"
-      subtitle="Engineering"
+      subtitle="Interactive Systems"
       backDirection="left"
     />
   );

@@ -36,7 +36,7 @@ export default function Home() {
       {/* Top — About (top-right corner) */}
       <div className="absolute top-10 right-10">
         <DirectionalLink to="/about" direction="up" className="text-[0.75rem]">
-          About  ↑
+          Shreya who?  ↑
         </DirectionalLink>
       </div>
 
